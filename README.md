@@ -1,3 +1,3 @@
 # Neurofuzz
 
-An implementation of Neuro-Fuzzy Inference System
+An implementation of Neuro-Fuzzy Inference System. :)
